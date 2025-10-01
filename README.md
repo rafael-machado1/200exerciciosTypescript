@@ -1,4 +1,4 @@
-# rgba(39, 1, 255, 1) Exercícios em TypeScript
+#  Exercícios em TypeScript
 ### Exercícios propostos para resolução, a seguir, um índice:
 
 - `exercicio001.ts`: Declare duas variáveis chamadas "idade" e "peso", atribua valores a elas e imprima os valores na console.
