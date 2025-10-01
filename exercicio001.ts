@@ -1,3 +1,3 @@
-let idade: number = 12
-let peso:number = 67
-console.log(idade, peso);
+let idade1: number = 12
+let peso1:number = 67
+console.log(idade1, peso1);
